@@ -1,2 +1,13 @@
-# Student-data-analysis
-Student data analysis project using python to explore clean and visualize datasets
+# Student Data Analysis
+
+This project focuses on analyzing student-related datasets using Python.
+It includes data cleaning, exploratory data analysis (EDA), and basic visualizations.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook (planned)
+
+## Status
+Learning project by a Statistics student.
