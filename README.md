@@ -10,4 +10,4 @@ It includes data cleaning, exploratory data analysis (EDA), and basic visualizat
 - Jupyter Notebook (planned)
 
 ## Status
-Learning project by a Statistics student.
+Learning project by a statistics student.
